@@ -18,14 +18,14 @@ cd osxinit
 ./osx.sh
 ```
 
-## Get pip and virtualenv
-```bash
-./python.sh
-```
-
 ## Get brew
 ```bash
 ./brew.sh
+```
+
+## Get pip and virtualenv
+```bash
+./python.sh
 ```
 
 ## Get npm
@@ -50,7 +50,7 @@ cd osxinit
 
 [Skype](http://www.skype.com/)
 
-[Sublime text 2](http://www.sublimetext.com/dev)
+[Sublime Text 2](http://www.sublimetext.com/dev)
 
 [Transmission](http://www.transmissionbt.com/)
 
