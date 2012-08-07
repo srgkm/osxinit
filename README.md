@@ -1,3 +1,7 @@
+## Update OS X
+ > Software Update
+
+
 ## Get Command Line Tools
 [Command Line Tools](https://developer.apple.com/downloads/)
 
