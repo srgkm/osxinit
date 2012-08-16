@@ -1,6 +1,5 @@
 #!/bin/bash
 
-# get pip
-sudo easy_install pip
+sudo easy_install pip readline
 
-pip install -U virtualenv
+sudo pip install -U virtualenv ipython requests httpie
