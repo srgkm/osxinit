@@ -2,4 +2,4 @@
 
 sudo easy_install pip readline
 
-sudo pip install -U virtualenv ipython requests httpie
+sudo pip install -U virtualenv ipython requests httpie pip python-mysql
