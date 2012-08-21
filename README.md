@@ -2,8 +2,8 @@
  > Software Update
 
 
-## Get Command Line Tools
-[Command Line Tools](https://developer.apple.com/downloads/)
+## Get Xcode and Command Line Tools
+[Xcode](https://developer.apple.com/xcode/)
 
 
 ## Get osxinit.git
@@ -32,15 +32,15 @@ cd osxinit
 ```
 
 
-## Get pip and virtualenv
-```bash
-./python.sh
-```
-
-
 ## Get npm
 ```bash
 ./npm.sh
+```
+
+
+## Get pip and virtualenv
+```bash
+./python.sh
 ```
 
 
