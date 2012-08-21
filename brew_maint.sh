@@ -8,3 +8,4 @@ brew upgrade
 
 # Remove outdated versions from the cellar
 brew cleanup
+
