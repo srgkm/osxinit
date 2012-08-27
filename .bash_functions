@@ -1,3 +1,8 @@
+# Delete all pyc files in current directory
+function rmpyc() {
+	find . -name '*.pyc' -delete
+}
+
 # Create a new directory and enter it
 function mkd() {
 	mkdir -p "$@" && cd "$@"
